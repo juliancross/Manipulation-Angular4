@@ -1,0 +1,37 @@
+.firstComponent {
+    background: grey;
+    color: white;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 0;
+}
+
+h2 {
+    font-weight: lighter;
+    font: 16px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: black;
+    font-size: 16px;
+}
